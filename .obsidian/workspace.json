@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "a23c26b1233b77bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "589474d5efa7facf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7374cc99d911064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Projects/Awin-Oufer-US-Outreach-Report-2026-04-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Awin-Oufer-US-Outreach-Report-2026-04-15"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c093f77ef564e8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3b8ff559297ab4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9b37849102d781d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b9a308e6174b546e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d78c211eb218e5e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbe38b07dbd99b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "46b59f14c4384c54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baebf7cd55dee2de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05-Project-Status/affiliate-growth-intelligence.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for affiliate-growth-intelligence"
+            }
+          },
+          {
+            "id": "4b4406466f48cecd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05-Project-Status/affiliate-growth-intelligence.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-ghost",
+              "title": "outgoing-link"
+            }
+          },
+          {
+            "id": "e492477f5a4d97a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "tag"
+            }
+          },
+          {
+            "id": "d5d030de01b52ad9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0d5532dd5219c962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05-Project-Status/affiliate-growth-intelligence.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of affiliate-growth-intelligence"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b7374cc99d911064",
+  "lastOpenFiles": [
+    "06-Publishers/impact-ottocast-tracker.md.tmp.8478.1776408471150",
+    "06-Publishers/impact-ottocast-tracker.md.tmp.8478.1776407942086",
+    "06-Publishers/impact-ottocast-tracker.md",
+    "20-Long-Term-Memory/Design-System-Reference/skills/brand-ab-test/SKILL.md",
+    "20-Long-Term-Memory/Design-System-Reference/skills/brand-ab-test",
+    "20-Long-Term-Memory/Design-System-Reference/skills",
+    "20-Long-Term-Memory/Design-System-Reference/05-Comparison-Tables/Token-Systems-Matrix.md",
+    "20-Long-Term-Memory/Design-System-Reference/05-Comparison-Tables/Quick-Reference-Patterns.md",
+    "20-Long-Term-Memory/Design-System-Reference/05-Comparison-Tables/Component-Parity-Map.md",
+    "20-Long-Term-Memory/Design-System-Reference/04-shadcn-ui/Patterns.md",
+    "20-Long-Term-Memory/Design-System-Reference/04-shadcn-ui/Overview.md",
+    "20-Long-Term-Memory/Design-System-Reference/04-shadcn-ui/Design-Tokens.md",
+    "20-Long-Term-Memory/Design-System-Reference/04-shadcn-ui/Components.md",
+    "20-Long-Term-Memory/Design-System-Reference/03-Material-UI/Patterns.md",
+    "20-Long-Term-Memory/Design-System-Reference/03-Material-UI/Overview.md",
+    "20-Long-Term-Memory/Design-System-Reference/03-Material-UI/Design-Tokens.md",
+    "20-Long-Term-Memory/Design-System-Reference/03-Material-UI/Components.md",
+    "20-Long-Term-Memory/Design-System-Reference/02-Ant-Design/Patterns.md",
+    "20-Long-Term-Memory/Design-System-Reference/02-Ant-Design/Components.md",
+    "20-Long-Term-Memory/Design-System-Reference/02-Ant-Design/Overview.md",
+    "20-Long-Term-Memory/Design-System-Reference/02-Ant-Design/Design-Tokens.md",
+    "20-Long-Term-Memory/Design-System-Reference/01-Material-Design-Icons/Design-Tokens.md",
+    "20-Long-Term-Memory/Design-System-Reference/01-Material-Design-Icons/Overview.md",
+    "20-Long-Term-Memory/Design-System-Reference/01-Material-Design-Icons/Components.md",
+    "20-Long-Term-Memory/Design-System-Reference/competitor-research-aonic.md",
+    "20-Long-Term-Memory/Design-System-Reference/aonic-vi-extraction.md",
+    "20-Long-Term-Memory/Design-System-Reference/05-Comparison-Tables",
+    "20-Long-Term-Memory/Design-System-Reference/04-shadcn-ui",
+    "20-Long-Term-Memory/Design-System-Reference/03-Material-UI",
+    "20-Long-Term-Memory/Design-System-Reference/02-Ant-Design",
+    "20-Long-Term-Memory/Design-System-Reference/01-Material-Design-Icons",
+    "20-Long-Term-Memory/Design-System-Reference/00-Design-System-Index.md",
+    "20-Long-Term-Memory/Design-System-Reference",
+    "30-Skills/affiliate-outreach/commands/impact-tcl-us-setup.md",
+    "30-Skills/affiliate-outreach/commands/impact-tcl-us-outreach.md",
+    "30-Skills/affiliate-outreach/commands",
+    "01-Projects/Rockbros-Weekly-Report/attachments/us_publishers_full.png",
+    "01-Projects/Rockbros-Weekly-Report/attachments/us_home.png",
+    "01-Projects/Rockbros-Weekly-Report/attachments/eu_publishers_full.png",
+    "01-Projects/Rockbros-Weekly-Report/attachments/eu_home.png"
+  ]
+}

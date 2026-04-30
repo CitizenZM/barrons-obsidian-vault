@@ -1,0 +1,33 @@
+# Greenhouse Application Ledger
+
+## Format
+company|job_title|job_id|date|status|resume_file|cover_letter_file
+
+## Applications
+Duolingo|Growth Marketing Lead|8492831002|2026-04-16|submitted|Barron_Zuo_Duolingo_Growth_Marketing_Lead_Resume.docx|Barron_Zuo_Duolingo_Growth_Marketing_Lead_Cover_Letter.docx
+Upwork|VP, Marketing|7685948003|2026-04-16|submitted|Barron_Zuo_Upwork_VP_Marketing_Resume.docx|Barron_Zuo_Upwork_VP_Marketing_Cover_Letter.docx
+DriveWealth|Head of Marketing|7711439003|2026-04-27|submitted|Barron_Zuo_DriveWealth_Head_Marketing_Resume.docx|none
+InMobi|Director - Marketing|7731077|2026-04-27|submitted|Barron_Zuo_InMobi_Director_Marketing_Resume.docx|Barron_Zuo_InMobi_Director_Marketing_Cover_Letter.docx
+Moloco|Director, Marketing Campaigns|7710008003|2026-04-27|submitted|Barron_Zuo_Moloco_Director_Mktg_Campaigns_Resume.docx|Barron_Zuo_Moloco_Director_Mktg_Campaigns_Cover_Letter.docx
+Farther Finance|Director of Marketing Strategy & Operations|4683353005|2026-04-28|submitted|Barron_Zuo_Farther_Director_Mktg_Strat_Ops_Resume.docx|Barron_Zuo_Farther_Director_Mktg_Strat_Ops_Cover_Letter.docx
+Sigma Computing|Head of Global Partner Marketing Strategy|7714474003|2026-04-28|submitted|Barron_Zuo_Sigma_Head_Partner_Marketing_Resume.docx|Barron_Zuo_Sigma_Head_Partner_Marketing_Cover_Letter.docx
+AirDNA (ASG)|VP of Marketing|8522906002|2026-04-28|submitted|Barron_Zuo_AirDNA_VP_Marketing_Resume.docx|Barron_Zuo_AirDNA_VP_Marketing_Cover_Letter.docx
+Twin Health|Senior Director, Growth Marketing|5977822004|2026-04-28|submitted|Barron_Zuo_TwinHealth_Sr_Director_Growth_Marketing_Resume.docx|Barron_Zuo_TwinHealth_Sr_Director_Growth_Marketing_Cover_Letter.docx
+CLEAR|Senior Director, Product Marketing|7850931|2026-04-28|submitted|Barron_Zuo_CLEAR_Sr_Director_Product_Marketing_Resume.docx|Barron_Zuo_CLEAR_Sr_Director_Product_Marketing_Cover_Letter.docx
+Kikoff|Associate Director of Product Marketing|4232952009|2026-04-28|submitted|Barron_Zuo_Kikoff_Assoc_Director_PMM_Resume.docx|Barron_Zuo_Kikoff_Assoc_Director_PMM_Cover_Letter.docx
+Qualio|Director, Product Marketing|7707774003|2026-04-28|submitted|Barron_Zuo_Qualio_Director_Product_Marketing_Resume.docx|Barron_Zuo_Qualio_Director_Product_Marketing_Cover_Letter.docx
+HomeLight|Director, Growth Marketing|7843865|2026-04-28|submitted|Barron_Zuo_HomeLight_Director_Growth_Marketing_Resume.docx|none
+Maven Clinic|Director, Growth Marketing|8510773002|2026-04-28|submitted|Barron_Zuo_MavenClinic_Director_Growth_Marketing_Resume.docx|none
+Mochi Health|VP of Growth|5193006008|2026-04-28|submitted|Barron_Zuo_MochiHealth_VP_Growth_Resume.docx|none
+Ingenio|Director of Performance Marketing|5814521004|2026-04-28|submitted|Barron_Zuo_Ingenio_Director_Perf_Marketing_Resume.docx|Barron_Zuo_Ingenio_Director_Perf_Marketing_Cover_Letter.docx
+Coupang|Director ll, Product Management - Search & Discovery|7783372|2026-04-28|submitted|Barron_Zuo_Coupang_Director_PM_Search_Resume.docx|Barron_Zuo_Coupang_Director_PM_Search_Cover_Letter.docx
+Stackline|Director, Strategy & E-commerce Insights|4682363005|2026-04-28|submitted|Barron_Zuo_Stackline_Director_Ecomm_Strategy_Resume.docx|none
+IPSY|Director, E-Commerce Growth and Marketplace Partnerships|5153758008|2026-04-28|submitted|Barron_Zuo_IPSY_Director_Ecomm_Growth_Resume.docx|none
+Typeform|Director of Demand Generation|7704044|2026-04-28|submitted|Barron_Zuo_Typeform_Director_DemandGen_Resume.docx|none
+SharkNinja|Senior Director, Head of eCommerce DTC|4670588006|2026-04-28|submitted|Barron_Zuo_SharkNinja_Sr_Director_DTC_Resume.docx|none
+Hover|Senior Director, Growth Marketing|7793629|2026-04-28|submitted|Barron_Zuo_Hover_Sr_Director_Growth_Marketing_Resume.docx|none
+Kinelo|Founding GTM Lead|4215784009|2026-04-28|submitted|Barron_Zuo_Kinelo_Founding_GTM_Lead_Resume.docx|none
+Monks|SVP Group Account Director|5826338004|2026-04-28|submitted|Barron_Zuo_Monks_SVP_Group_Account_Director_Resume.docx|none
+Gusto|Head of Social and Influencer Marketing|7276841|2026-04-29|submitted|Barron_Zuo_Gusto_Head_Social_Influencer_Resume.docx|Barron_Zuo_Gusto_Head_Social_Influencer_Cover_Letter.docx
+Whatnot|Director of Brand and Integrated Marketing|ashby-65fc8ec8|2026-04-29|submitted|Barron_Zuo_Whatnot_Director_Brand_Integrated_Marketing_Resume.docx|Barron_Zuo_Whatnot_Director_Brand_Integrated_Marketing_Cover_Letter.docx
+1of10|Head of Growth|google-form-D7Ru46ZsQS1fZ23P8|2026-04-29|submitted|none|none

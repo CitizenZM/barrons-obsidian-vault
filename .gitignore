@@ -1,0 +1,19 @@
+# Large output files
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.mp4
+*.mov
+
+# Obsidian plugin compiled files (keep configs, skip large binaries)
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp/cache
+*.tmp
+.trash/
