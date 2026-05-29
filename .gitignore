@@ -17,3 +17,4 @@ Thumbs.db
 # Temp/cache
 *.tmp
 .trash/
+.git.nosync
